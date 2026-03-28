@@ -1,26 +1,26 @@
 # 🎮 RPG Skills Smart Contract
 
-Smart Contract em Solidity para gerenciamento descentralizado de habilidades de RPG.
+Smart Contract in Solidity for decentralized RPG skill management.
 
-## ✨ Funcionalidades
+## ✨ Features
 
-- ➕ **Adicionar Skills**: Crie novas habilidades com nome, descrição, dano, raridade e custo
-- ✏️ **Editar Skills**: Atualize atributos de habilidades existentes  
-- 🗑️ **Remover Skills**: Delete habilidades do banco de dados
-- 👁️ **Consultar Skills**: Visualize detalhes de qualquer habilidade por ID
+- ➕ **Add Skills**: Create new skills with name, description, damage, rarity, and cost
+- ✏️ **Edit Skills**: Update attributes of existing skills
+- 🗑️ **Remove Skills**: Delete skills from the database
+- 👁️ **View Skills**: See details of any skill by ID
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 - **Solidity** ^0.8.17
 - **Remix IDE**
 - **Ethereum/EVM**
 
-## 🚀 Como Usar
+## 🚀 How to Use
 
-1. Acesse [Remix IDE](https://remix.ethereum.org/)
-2. Cole o código do `RpgDatabase.sol`
-3. Compile e deploy na rede desejada
+1. Access [Remix IDE](https://remix.ethereum.org/)
+2. Paste the `RpgDatabase.sol` code
+3. Compile and deploy on your desired network
 
-## 📄 Licença
+## 📄 License
 
 MIT
